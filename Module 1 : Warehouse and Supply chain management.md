@@ -36,6 +36,8 @@ There’s no single point of attack. It’s like trying to rob a bank vault—yo
 3. Faster and easier.
 Because the data is always accurate, you don’t have to waste time double-checking. It’s like having a super-efficient assistant who never makes mistakes.
 
+[Read more about what is blockchian](https://github.com/Cardanohubsurabaya/Study-Case-Utilization-of-Blockchain-for-Stock-Transparency/blob/main/Module%203%20%3A%20Blockchain%20Solution%20for%20SKU%20(Stock%20Keeping%20Unit).md)
+
 <h2> Type of Warehouse </h2>
 
 In general, the warehouse is divided into several types
