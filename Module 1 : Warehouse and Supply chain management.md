@@ -33,7 +33,7 @@ If everyone doesn’t agree on the data that’s being added, it doesn’t get r
 2. Hard to hack.
 There’s no single point of attack. It’s like trying to rob a bank vault—you’d have to break into a bunch of different ones at the same time.
 
-3.Faster and easier.
+3. Faster and easier.
 Because the data is always accurate, you don’t have to waste time double-checking. It’s like having a super-efficient assistant who never makes mistakes.
 
 <h2> Type of Warehouse </h2>
