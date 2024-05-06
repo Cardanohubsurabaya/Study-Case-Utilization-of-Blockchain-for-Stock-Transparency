@@ -15,6 +15,28 @@ Warehouse play a role in providing services with guarantee the availability of p
 This distribution function makes the warehouse for the starting point for the purposes of sales to customers. This will also affect the cost of accommodation. Delivery in large quantities, economically cheaper costs than shipping on a smaller scale. In certain systems, distribution and consolidation functions are the main functions of the distribution warehouse
 
 <h3>Exponential develop to warehouse efficiency</h3>
+To be able to create an optimal warehouse, we need to pay attention to the following things.
+
+<h4> 1. Warehouse layout </h4>
+With a good layout, can facilitate all processes that occur in the warehouse. For example grouping of types of goods, optimizing workflow, and maximizing workflow when there are vehicles that enter this can help warehouses to optimize the level of inventory and reduce the risk of stockouts or overstocks.
+
+<h4> 2.Automation and Mechanization</h4>
+Take advantage of technology to automate and mechanize repeated tasks in the warehouse. This can help reduce human errors such as reducing the risk of damage to goods and increasing efficiency. In addition, this automation will make work faster and more transparent
+
+<h4> 3.Invest in a good system.</h4>
+
+When this there are many systems that are being developed to streamline warehouse inventory management, such as flow, storage, and organization. One of them is the use of blockchain. Some of the advantages of blockchain include:
+
+1. More secure.
+If everyone doesn’t agree on the data that’s being added, it doesn’t get recorded. No room for mistakes or disagreements.
+
+3. Hard to hack.
+There’s no single point of attack. It’s like trying to rob a bank vault—you’d have to break into a bunch of different ones at the same time.
+
+3.Faster and easier.
+Because the data is always accurate, you don’t have to waste time double-checking. It’s like having a super-efficient assistant who never makes mistakes.
+
+<h2> Type of Warehouse </h2>
 
 # Challenges in current SKU management #
 Understanding Stock keeping units (SKU)
