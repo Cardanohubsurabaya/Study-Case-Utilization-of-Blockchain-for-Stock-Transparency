@@ -50,5 +50,5 @@ Owned by distributors, wholesale traders, or producers, these warehouses are not
 Also called the "Customs and Excise" warehouse, this warehouse store imports goods before Customs and Excise is completed and paid for products.
 
 <h4>4. Consolidated warehouse</h4>
-Consolidated warehouse is a warehouse that collects small shipments from various suppliers to one geographical location to combine it into a greater shipping burden, so it is more economical, to one area. For example the warehouse used by shipping services
+Consolidated warehouse is a warehouse that collects small shipments from various suppliers to one geographical location to combine it into a greater shipping burden, so it is more economical, to one area. For example the warehouse used by shipping services 
 
