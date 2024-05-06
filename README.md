@@ -1,5 +1,5 @@
-# Warehouse and Supply chain management #
-<h3> Warehouse function </h3>
+<h1> Warehouse and Supply chain management</h1>
+<h2> Warehouse function </h2>
 
 Warehouse is an important component in the supply chain, its function is not only limited to storage, but includes various pentomg roles in maintaining product availability and business efficiency.
 Exponential develop to warehouse efficiency
@@ -11,7 +11,10 @@ Exponential develop to warehouse efficiency
 <h4> 2. Order full filment </h4>
 Warehouse play a role in providing services with guarantee the availability of products and reasonable orders. System This will reduce the cost, because shipping from manufacturing can Made periodically, enough with the quantity of trucks or cars boxes. By storing a certain amount of stock.
 
-<h3>Type of Warehouse</h3>
+<h4> 3. Distribution and consolidation </h4>
+This distribution function makes the warehouse for the starting point for the purposes of sales to customers. This will also affect the cost of accommodation. Delivery in large quantities, economically cheaper costs than shipping on a smaller scale. In certain systems, distribution and consolidation functions are the main functions of the distribution warehouse
+
+<h3>Exponential develop to warehouse efficiency</h3>
 
 # Challenges in current SKU management #
 Understanding Stock keeping units (SKU)
