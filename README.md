@@ -30,13 +30,38 @@ When this there are many systems that are being developed to streamline warehous
 1. More secure.
 If everyone doesn’t agree on the data that’s being added, it doesn’t get recorded. No room for mistakes or disagreements.
 
-3. Hard to hack.
+2. Hard to hack.
 There’s no single point of attack. It’s like trying to rob a bank vault—you’d have to break into a bunch of different ones at the same time.
 
 3.Faster and easier.
 Because the data is always accurate, you don’t have to waste time double-checking. It’s like having a super-efficient assistant who never makes mistakes.
 
 <h2> Type of Warehouse </h2>
+
+In general, the warehouse is divided into several types
+
+<h4>1. Public Warehouse</h4>
+Usually owned and operated by the government, these warehouses provide storage for producers and small traders at a low cost. Public warehouses can be rented out for business or personal use, but most commonly rented out for private sector companies.
+
+<h4>2. Private warehouse</h4>
+Owned by distributors, wholesale traders, or producers, these warehouses are not open to the general public. Private warehouses are used for UKM ecommerce if they need significant long -term strategic presence in important fields.
+
+<h4>3. Bound Warehouse</h4>
+Also called the "Customs and Excise" warehouse, this warehouse store imports goods before Customs and Excise is completed and paid for products.
+
+<h4>4. Consolidated warehouse</h4>
+Consolidated warehouse is a warehouse that collects small shipments from various suppliers to one geographical location to combine it into a greater shipping burden, so it is more economical, to one area. For example the warehouse used by shipping services
+
+
+
+
+
+
+
+
+
+
+
 
 # Challenges in current SKU management #
 Understanding Stock keeping units (SKU)
