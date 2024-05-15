@@ -1,7 +1,7 @@
 <h1>Blockchain Solution for SKU (Stock Keeping Unit)</h1>
 
 <h3>What is blockchain</h3>
-
+https://forum.cardano.org/t/understanding-blockchains-with-3-simple-questions/120814
 <h3>Introduction Relationship about blockchain and Stock Transparency</h3>
 
 <h3>How blockchain is used in inventory management</h3>
